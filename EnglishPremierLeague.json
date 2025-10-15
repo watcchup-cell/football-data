@@ -1,88 +1,53 @@
 {
   "league": {
     "name": "الدوري الإنجليزي الممتاز",
-    "season": "2024 / 2025",
+    "season": "2023/2024",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
   },
-
   "standings": [
     {
-      "name": "مانشستر سيتي",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-      "played": 9,
-      "won": 7,
-      "draw": 1,
-      "lost": 1,
-      "points": 22
+      "position": 1,
+      "team": "Manchester City",
+      "logo": "https://crests.football-data.org/65.png",
+      "played": 38,
+      "win": 30,
+      "draw": 4,
+      "loss": 4,
+      "goals_for": 90,
+      "goals_against": 30,
+      "points": 94,
+      "form": ["W","W","D","W","W"]
     },
     {
-      "name": "ليفربول",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-      "played": 9,
-      "won": 6,
-      "draw": 2,
-      "lost": 1,
-      "points": 20
-    },
-    {
-      "name": "أرسنال",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
-      "played": 9,
-      "won": 6,
-      "draw": 2,
-      "lost": 1,
-      "points": 20
-    },
-    {
-      "name": "توتنهام",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
-      "played": 9,
-      "won": 5,
-      "draw": 2,
-      "lost": 2,
-      "points": 17
-    },
-    {
-      "name": "تشيلسي",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
-      "played": 9,
-      "won": 4,
-      "draw": 3,
-      "lost": 2,
-      "points": 15
+      "position": 2,
+      "team": "Arsenal",
+      "logo": "https://crests.football-data.org/57.png",
+      "played": 38,
+      "win": 28,
+      "draw": 6,
+      "loss": 4,
+      "goals_for": 88,
+      "goals_against": 33,
+      "points": 90,
+      "form": ["W","W","L","W","W"]
     }
   ],
-
   "scorers": [
     {
-      "name": "إيرلينغ هالاند",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTNMW8t6grionfxo6tCy3VS-azCxz1HEfXfm5x6rbgshDQ7jvDdjqZVKWnZE8yKa_hAQVB7CfZ7njW8i8_jlTARTC8PievDNFF3v6bb0s",
-      "team": "مانشستر سيتي",
-      "goals": 10
+      "rank": 1,
+      "player": "Erling Haaland",
+      "team": "Manchester City",
+      "team_logo": "https://crests.football-data.org/65.png",
+      "goals": 36,
+      "matches": 35
     },
     {
-      "name": "محمد صلاح",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mohamed_Salah_2022.jpg",
-      "team": "ليفربول",
-      "goals": 9
-    },
-    {
-      "name": "بوكايو ساكا",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bukayo_Saka_2022.jpg",
-      "team": "أرسنال",
-      "goals": 7
-    },
-    {
-      "name": "سون هيونغ-مين",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Son_Heung-min_2022.jpg",
-      "team": "توتنهام",
-      "goals": 6
-    },
-    {
-      "name": "كول بالمر",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Cole_Palmer_2023.jpg",
-      "team": "تشيلسي",
-      "goals": 5
+      "rank": 2,
+      "player": "Mohamed Salah",
+      "team": "Liverpool",
+      "team_logo": "https://crests.football-data.org/64.png",
+      "goals": 29,
+      "matches": 37
     }
   ]
 }
