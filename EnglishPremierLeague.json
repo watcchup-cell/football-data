@@ -1,53 +1,24 @@
 {
-  "league": {
-    "name": "الدوري الإنجليزي الممتاز",
-    "season": "2023/2024",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
-  },
   "standings": [
     {
-      "position": 1,
-      "team": "Manchester City",
-      "logo": "https://crests.football-data.org/65.png",
-      "played": 38,
-      "win": 30,
-      "draw": 4,
-      "loss": 4,
-      "goals_for": 90,
-      "goals_against": 30,
-      "points": 94,
-      "form": ["W","W","D","W","W"]
-    },
-    {
-      "position": 2,
-      "team": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png",
-      "played": 38,
-      "win": 28,
-      "draw": 6,
-      "loss": 4,
-      "goals_for": 88,
-      "goals_against": 33,
-      "points": 90,
-      "form": ["W","W","L","W","W"]
+      "name": "Manchester City",
+      "logo": "https://example.com/city.png",
+      "played": 8,
+      "wins": 6,
+      "draws": 2,
+      "losses": 0,
+      "goals_for": 20,
+      "goals_against": 5,
+      "goal_difference": 15,
+      "points": 20
     }
   ],
-  "scorers": [
+  "top_scorers": [
     {
-      "rank": 1,
       "player": "Erling Haaland",
+      "photo": "https://example.com/haaland.png",
       "team": "Manchester City",
-      "team_logo": "https://crests.football-data.org/65.png",
-      "goals": 36,
-      "matches": 35
-    },
-    {
-      "rank": 2,
-      "player": "Mohamed Salah",
-      "team": "Liverpool",
-      "team_logo": "https://crests.football-data.org/64.png",
-      "goals": 29,
-      "matches": 37
+      "goals": 10
     }
   ]
 }
