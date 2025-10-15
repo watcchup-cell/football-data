@@ -1,98 +1,16 @@
 {
-  "league": {
-    "name": "الدوري الإيطالي",
-    "season": "2024/2025",
-    "logo": "https://i0.wp.com/cdn.statically.io/gh/dev-malikweb/images/leagues-imgs/17.png?ssl=1"
-  },
+  "league": "Serie A",
+  "season": "2024/2025",
   "standings": [
-    {
-      "rank": 1,
-      "team": "إنتر ميلان",
-      "logo": "https://i0.wp.com/cdn.statically.io/gh/dev-malikweb/images/leagues-imgs/17.png?ssl=1",
-      "played": 38,
-      "wins": 28,
-      "draws": 6,
-      "losses": 4,
-      "goals_for": 85,
-      "goals_against": 30,
-      "points": 90,
-      "form": ["W","W","D","W","L"]
-    },
-    {
-      "rank": 2,
-      "team": "ميلان",
-      "logo": "https://i0.wp.com/cdn.statically.io/gh/dev-malikweb/images/leagues-imgs/17.png?ssl=1",
-      "played": 38,
-      "wins": 25,
-      "draws": 8,
-      "losses": 5,
-      "goals_for": 75,
-      "goals_against": 35,
-      "points": 83,
-      "form": ["W","D","W","W","W"]
-    },
-    {
-      "rank": 3,
-      "team": "يوفنتوس",
-      "logo": "https://i0.wp.com/cdn.statically.io/gh/dev-malikweb/images/leagues-imgs/17.png?ssl=1",
-      "played": 38,
-      "wins": 22,
-      "draws": 10,
-      "losses": 6,
-      "goals_for": 68,
-      "goals_against": 32,
-      "points": 76,
-      "form": ["L","W","W","D","W"]
-    }
+    { "rank": 1, "team": "Inter Milan", "points": 94, "played": 38, "won": 29, "drawn": 7, "lost": 2, "goalsFor": 89, "goalsAgainst": 29 },
+    ...
   ],
   "scorers": [
-    {
-      "rank": 1,
-      "player": "روبرتو بيرنارديسكي",
-      "team": "إنتر ميلان",
-      "goals": 24,
-      "photo": ""
-    },
-    {
-      "rank": 2,
-      "player": "زلاتان إبراهيموفيتش",
-      "team": "ميلان",
-      "goals": 22,
-      "photo": ""
-    }
+    { "rank": 1, "player": "Lautaro Martínez", "team": "Inter Milan", "goals": 24 },
+    ...
   ],
   "assists": [
-    {
-      "rank": 1,
-      "player": "لوكا مودريتش",
-      "team": "يوفنتوس",
-      "assists": 13,
-      "photo": ""
-    },
-    {
-      "rank": 2,
-      "player": "كريستيان بوله",
-      "team": "إنتر ميلان",
-      "assists": 11,
-      "photo": ""
-    }
-  ],
-  "matches": [
-    {
-      "date": "2025-05-18T17:45:00Z",
-      "home": "إنتر ميلان",
-      "away": "يوفنتوس",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT"
-    },
-    {
-      "date": "2025-05-19T17:45:00Z",
-      "home": "ميلان",
-      "away": "نابولي",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT"
-    }
+    { "rank": 1, "player": "Nicolo Barella", "team": "Inter Milan", "assists": 12 },
+    ...
   ]
 }
