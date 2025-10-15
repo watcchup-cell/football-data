@@ -1,0 +1,237 @@
+{
+  "league": "الدوري الإنجليزي الممتاز",
+  "season": "2024/2025",
+  "standings": [
+    {
+      "rank": 1,
+      "team": "مانشستر سيتي",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "played": 9,
+      "win": 7,
+      "draw": 1,
+      "lose": 1,
+      "points": 22
+    },
+    {
+      "rank": 2,
+      "team": "أرسنال",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "played": 9,
+      "win": 6,
+      "draw": 2,
+      "lose": 1,
+      "points": 20
+    },
+    {
+      "rank": 3,
+      "team": "ليفربول",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "played": 9,
+      "win": 6,
+      "draw": 2,
+      "lose": 1,
+      "points": 20
+    },
+    {
+      "rank": 4,
+      "team": "توتنهام",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "played": 9,
+      "win": 6,
+      "draw": 1,
+      "lose": 2,
+      "points": 19
+    },
+    {
+      "rank": 5,
+      "team": "أستون فيلا",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aston_Villa_FC_crest_%282016%29.svg",
+      "played": 9,
+      "win": 6,
+      "draw": 1,
+      "lose": 2,
+      "points": 19
+    },
+    {
+      "rank": 6,
+      "team": "تشيلسي",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "played": 9,
+      "win": 5,
+      "draw": 2,
+      "lose": 2,
+      "points": 17
+    },
+    {
+      "rank": 7,
+      "team": "نيوكاسل يونايتد",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
+      "played": 9,
+      "win": 5,
+      "draw": 1,
+      "lose": 3,
+      "points": 16
+    },
+    {
+      "rank": 8,
+      "team": "مانشستر يونايتد",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "played": 9,
+      "win": 5,
+      "draw": 1,
+      "lose": 3,
+      "points": 16
+    },
+    {
+      "rank": 9,
+      "team": "وست هام يونايتد",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "played": 9,
+      "win": 4,
+      "draw": 2,
+      "lose": 3,
+      "points": 14
+    },
+    {
+      "rank": 10,
+      "team": "برايتون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "played": 9,
+      "win": 4,
+      "draw": 2,
+      "lose": 3,
+      "points": 14
+    },
+    {
+      "rank": 11,
+      "team": "برينتفورد",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Brentford_FC_crest.svg",
+      "played": 9,
+      "win": 3,
+      "draw": 3,
+      "lose": 3,
+      "points": 12
+    },
+    {
+      "rank": 12,
+      "team": "كريستال بالاس",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0c/Crystal_Palace_FC_logo.svg/250px-Crystal_Palace_FC_logo.svg.png",
+      "played": 9,
+      "win": 3,
+      "draw": 3,
+      "lose": 3,
+      "points": 12
+    },
+    {
+      "rank": 13,
+      "team": "فولهام",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28shield%29.svg",
+      "played": 9,
+      "win": 3,
+      "draw": 2,
+      "lose": 4,
+      "points": 11
+    },
+    {
+      "rank": 14,
+      "team": "وولفرهامبتون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg",
+      "played": 9,
+      "win": 3,
+      "draw": 2,
+      "lose": 4,
+      "points": 11
+    },
+    {
+      "rank": 15,
+      "team": "نوتنغهام فورست",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg",
+      "played": 9,
+      "win": 2,
+      "draw": 4,
+      "lose": 3,
+      "points": 10
+    },
+    {
+      "rank": 16,
+      "team": "إيفرتون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg",
+      "played": 9,
+      "win": 2,
+      "draw": 2,
+      "lose": 5,
+      "points": 8
+    },
+    {
+      "rank": 17,
+      "team": "بورنموث",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/AFC_Bournemouth_%282013%29.svg",
+      "played": 9,
+      "win": 2,
+      "draw": 1,
+      "lose": 6,
+      "points": 7
+    },
+    {
+      "rank": 18,
+      "team": "ساوثهامبتون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+      "played": 9,
+      "win": 1,
+      "draw": 2,
+      "lose": 6,
+      "points": 5
+    },
+    {
+      "rank": 19,
+      "team": "ليستر سيتي",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/2/2d/Leicester_City_crest.svg/250px-Leicester_City_crest.svg.png",
+      "played": 9,
+      "win": 1,
+      "draw": 1,
+      "lose": 7,
+      "points": 4
+    },
+    {
+      "rank": 20,
+      "team": "إيبسويتش تاون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/43/Ipswich_Town.svg",
+      "played": 9,
+      "win": 0,
+      "draw": 2,
+      "lose": 7,
+      "points": 2
+    }
+  ],
+  "scorers": [
+    {
+      "player": "إيرلينغ هالاند",
+      "team": "مانشستر سيتي",
+      "photo": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%B1%D9%84%D9%8A%D9%86%D8%BA_%D9%87%D8%A7%D9%84%D8%A7%D9%86%D8%AF#/media/%D9%85%D9%84%D9%81:Norway_Italy_-_June_2025_E_07.jpg",
+      "goals": 10
+    },
+    {
+      "player": "محمد صلاح",
+      "team": "ليفربول",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mohamed_Salah_2018.jpg/250px-Mohamed_Salah_2018.jpg",
+      "goals": 8
+    },
+    {
+      "player": "ألكسندر إيساك",
+      "team": "نيوكاسل يونايتد",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Alexander_Isak_56_%28cropped%29.jpg/800px-UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Alexander_Isak_56_%28cropped%29.jpg",
+      "goals": 7
+    },
+    {
+      "player": "داروين نونيز",
+      "team": "ليفربول",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Darwin_N%C3%BA%C3%B1ez_%28cropped%29.jpg/250px-Darwin_N%C3%BA%C3%B1ez_%28cropped%29.jpg",
+      "goals": 6
+    },
+    {
+      "player": "سونا هيونغ مين",
+      "team": "توتنهام",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Team_Korea_Russia_WorldCup_02_%28cropped%29.png/250px-Team_Korea_Russia_WorldCup_02_%28cropped%29.png",
+      "goals": 6
+    },
+    {
