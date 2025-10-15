@@ -1,17 +1,47 @@
 {
-  "league": "الدوري الإيطالي",
-  "season": "2024/2025",
-  "standings": [
-    {"rank": 1, "team": "إنتر ميلان", "points": 94},
-    {"rank": 2, "team": "يوفنتوس", "points": 88},
-    {"rank": 3, "team": "ميلان", "points": 83}
-  ],
-  "scorers": [
-    {"name": "لاوتارو مارتينيز", "goals": 28},
-    {"name": "فلاهوفيتش", "goals": 24}
-  ],
-  "results": [
-    {"match": "ميلان 2 - 1 يوفنتوس", "date": "2025-05-12"},
-    {"match": "إنتر 3 - 0 نابولي", "date": "2025-05-14"}
+  "league": "الدوري الإنجليزي الممتاز",
+  "season": "2025/2024",
+  "last_update": "2025-10-15",
+  "top_scorers": [
+    {
+      "rank": 1,
+      "player": "إيرلينغ هالاند",
+      "team": "مانشستر سيتي",
+      "goals": 12,
+      "matches": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Erling_Haaland_2023.jpg"
+    },
+    {
+      "rank": 2,
+      "player": "محمد صلاح",
+      "team": "ليفربول",
+      "goals": 10,
+      "matches": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mohamed_Salah_Liverpool_2022.jpg"
+    },
+    {
+      "rank": 3,
+      "player": "سون هيونغ مين",
+      "team": "توتنهام هوتسبر",
+      "goals": 8,
+      "matches": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Son_Heung-min_2023.jpg"
+    },
+    {
+      "rank": 4,
+      "player": "داروين نونيز",
+      "team": "ليفربول",
+      "goals": 7,
+      "matches": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darwin_Núñez_2022.jpg"
+    },
+    {
+      "rank": 5,
+      "player": "كاي هافيرتز",
+      "team": "أرسنال",
+      "goals": 6,
+      "matches": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Kai_Havertz_2023.jpg"
+    }
   ]
 }
