@@ -1,0 +1,8 @@
+{
+  "league": "Serie A",
+  "season": "2024/2025",
+  "standings": [
+    {"rank": 1, "team": "إنتر ميلان", "played": 38, "win": 29, "draw": 7, "lose": 2, "points": 94, "logo": "https://upload.wikimedia.org/..."},
+    {"rank": 2, "team": "ميلان", "played": 38, "win": 25, "draw": 6, "lose": 7, "points": 81, "logo": "https://upload.wikimedia.org/..."}
+  ]
+}
