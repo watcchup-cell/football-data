@@ -4,87 +4,265 @@
   "standings": [
     {
       "rank": 1,
-      "team": "Liverpool",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-      "played": 38,
-      "win": 25,
-      "draw": 6,
-      "lose": 7,
-      "points": 84
+      "team": "مانشستر سيتي",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "played": 9,
+      "win": 7,
+      "draw": 1,
+      "lose": 1,
+      "points": 22
     },
     {
       "rank": 2,
-      "team": "Arsenal",
+      "team": "أرسنال",
       "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
-      "played": 38,
-      "win": 26,
-      "draw": 6,
-      "lose": 6,
-      "points": 84
+      "played": 9,
+      "win": 6,
+      "draw": 2,
+      "lose": 1,
+      "points": 20
     },
     {
       "rank": 3,
-      "team": "Manchester City",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-      "played": 38,
-      "win": 21,
-      "draw": 9,
-      "lose": 8,
-      "points": 72
+      "team": "ليفربول",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "played": 9,
+      "win": 6,
+      "draw": 2,
+      "lose": 1,
+      "points": 20
     },
     {
       "rank": 4,
-      "team": "Chelsea",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
-      "played": 38,
-      "win": 21,
-      "draw": 9,
-      "lose": 8,
-      "points": 72
+      "team": "توتنهام",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "played": 9,
+      "win": 6,
+      "draw": 1,
+      "lose": 2,
+      "points": 19
     },
     {
       "rank": 5,
-      "team": "Newcastle United",
+      "team": "أستون فيلا",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aston_Villa_FC_crest_%282016%29.svg",
+      "played": 9,
+      "win": 6,
+      "draw": 1,
+      "lose": 2,
+      "points": 19
+    },
+    {
+      "rank": 6,
+      "team": "تشيلسي",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "played": 9,
+      "win": 5,
+      "draw": 2,
+      "lose": 2,
+      "points": 17
+    },
+    {
+      "rank": 7,
+      "team": "نيوكاسل يونايتد",
       "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
-      "played": 38,
-      "win": 20,
-      "draw": 12,
+      "played": 9,
+      "win": 5,
+      "draw": 1,
+      "lose": 3,
+      "points": 16
+    },
+    {
+      "rank": 8,
+      "team": "مانشستر يونايتد",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "played": 9,
+      "win": 5,
+      "draw": 1,
+      "lose": 3,
+      "points": 16
+    },
+    {
+      "rank": 9,
+      "team": "وست هام يونايتد",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "played": 9,
+      "win": 4,
+      "draw": 2,
+      "lose": 3,
+      "points": 14
+    },
+    {
+      "rank": 10,
+      "team": "برايتون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "played": 9,
+      "win": 4,
+      "draw": 2,
+      "lose": 3,
+      "points": 14
+    },
+    {
+      "rank": 11,
+      "team": "برينتفورد",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Brentford_FC_crest.svg",
+      "played": 9,
+      "win": 3,
+      "draw": 3,
+      "lose": 3,
+      "points": 12
+    },
+    {
+      "rank": 12,
+      "team": "كريستال بالاس",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Crystal_Palace_FC_logo.svg",
+      "played": 9,
+      "win": 3,
+      "draw": 3,
+      "lose": 3,
+      "points": 12
+    },
+    {
+      "rank": 13,
+      "team": "فولهام",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28shield%29.svg",
+      "played": 9,
+      "win": 3,
+      "draw": 2,
+      "lose": 4,
+      "points": 11
+    },
+    {
+      "rank": 14,
+      "team": "وولفرهامبتون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg",
+      "played": 9,
+      "win": 3,
+      "draw": 2,
+      "lose": 4,
+      "points": 11
+    },
+    {
+      "rank": 15,
+      "team": "نوتنغهام فورست",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg",
+      "played": 9,
+      "win": 2,
+      "draw": 4,
+      "lose": 3,
+      "points": 10
+    },
+    {
+      "rank": 16,
+      "team": "إيفرتون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg",
+      "played": 9,
+      "win": 2,
+      "draw": 2,
+      "lose": 5,
+      "points": 8
+    },
+    {
+      "rank": 17,
+      "team": "بورنموث",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/AFC_Bournemouth_%282013%29.svg",
+      "played": 9,
+      "win": 2,
+      "draw": 1,
       "lose": 6,
-      "points": 72
+      "points": 7
+    },
+    {
+      "rank": 18,
+      "team": "ساوثهامبتون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+      "played": 9,
+      "win": 1,
+      "draw": 2,
+      "lose": 6,
+      "points": 5
+    },
+    {
+      "rank": 19,
+      "team": "ليستر سيتي",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png",
+      "played": 9,
+      "win": 1,
+      "draw": 1,
+      "lose": 7,
+      "points": 4
+    },
+    {
+      "rank": 20,
+      "team": "إيبسويتش تاون",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/43/Ipswich_Town.svg",
+      "played": 9,
+      "win": 0,
+      "draw": 2,
+      "lose": 7,
+      "points": 2
     }
-    // ... ممكن تكمّل باقي الفرق بنفس الشكل
   ],
   "scorers": [
     {
-      "player": "Mohamed Salah",
-      "team": "Liverpool",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mohamed_Salah_2018.jpg",
-      "goals": 29
-    },
-    {
-      "player": "Alexander Isak",
-      "team": "Newcastle United",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Alexander_Isak_2023.jpg",
-      "goals": 23
-    },
-    {
-      "player": "Erling Haaland",
-      "team": "Manchester City",
+      "player": "إيرلينغ هالاند",
+      "team": "مانشستر سيتي",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Erling_Haaland_2022.jpg",
-      "goals": 22
+      "goals": 10
     },
     {
-      "player": "Bryan Mbeumo",
-      "team": "Brentford",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bryan_Mbeumo_2022.jpg",
-      "goals": 20
+      "player": "محمد صلاح",
+      "team": "ليفربول",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mohamed_Salah_2018.jpg",
+      "goals": 8
     },
     {
-      "player": "Chris Wood",
-      "team": "Nottingham Forest",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Chris_Wood_2022.jpg",
-      "goals": 20
+      "player": "ألكسندر إيساك",
+      "team": "نيوكاسل يونايتد",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Alexander_Isak_2023.jpg",
+      "goals": 7
+    },
+    {
+      "player": "داروين نونيز",
+      "team": "ليفربول",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Darwin_Nunez_2022.jpg",
+      "goals": 6
+    },
+    {
+      "player": "سونا هيونغ مين",
+      "team": "توتنهام",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Son_Heung-min_2019.jpg",
+      "goals": 6
+    },
+    {
+      "player": "بوكايو ساكا",
+      "team": "أرسنال",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bukayo_Saka_2023.jpg",
+      "goals": 5
+    },
+    {
+      "player": "كول بالمر",
+      "team": "تشيلسي",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cole_Palmer_2023.jpg",
+      "goals": 5
+    },
+    {
+      "player": "أولي واتكينز",
+      "team": "أستون فيلا",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ollie_Watkins_2021.jpg",
+      "goals": 5
+    },
+    {
+      "player": "جارود بوين",
+      "team": "وست هام يونايتد",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Jarrod_Bowen_2021.jpg",
+      "goals": 4
+    },
+    {
+      "player": "جوليان ألفاريز",
+      "team": "مانشستر سيتي",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Julian_Alvarez_2022.jpg",
+      "goals": 4
     }
-    // ... ممكن تضيف بقية الهدافين بنفس الشكل
   ]
 }
