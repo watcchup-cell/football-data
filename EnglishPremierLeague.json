@@ -1,24 +1,90 @@
 {
+  "league": "الدوري الإنجليزي الممتاز",
+  "season": "2024/2025",
   "standings": [
     {
-      "name": "Manchester City",
-      "logo": "https://example.com/city.png",
-      "played": 8,
-      "wins": 6,
-      "draws": 2,
-      "losses": 0,
-      "goals_for": 20,
-      "goals_against": 5,
-      "goal_difference": 15,
-      "points": 20
+      "rank": 1,
+      "team": "Liverpool",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "played": 38,
+      "win": 25,
+      "draw": 6,
+      "lose": 7,
+      "points": 84
+    },
+    {
+      "rank": 2,
+      "team": "Arsenal",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "played": 38,
+      "win": 26,
+      "draw": 6,
+      "lose": 6,
+      "points": 84
+    },
+    {
+      "rank": 3,
+      "team": "Manchester City",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "played": 38,
+      "win": 21,
+      "draw": 9,
+      "lose": 8,
+      "points": 72
+    },
+    {
+      "rank": 4,
+      "team": "Chelsea",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "played": 38,
+      "win": 21,
+      "draw": 9,
+      "lose": 8,
+      "points": 72
+    },
+    {
+      "rank": 5,
+      "team": "Newcastle United",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
+      "played": 38,
+      "win": 20,
+      "draw": 12,
+      "lose": 6,
+      "points": 72
     }
+    // ... ممكن تكمّل باقي الفرق بنفس الشكل
   ],
-  "top_scorers": [
+  "scorers": [
+    {
+      "player": "Mohamed Salah",
+      "team": "Liverpool",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mohamed_Salah_2018.jpg",
+      "goals": 29
+    },
+    {
+      "player": "Alexander Isak",
+      "team": "Newcastle United",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Alexander_Isak_2023.jpg",
+      "goals": 23
+    },
     {
       "player": "Erling Haaland",
-      "photo": "https://example.com/haaland.png",
       "team": "Manchester City",
-      "goals": 10
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Erling_Haaland_2022.jpg",
+      "goals": 22
+    },
+    {
+      "player": "Bryan Mbeumo",
+      "team": "Brentford",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bryan_Mbeumo_2022.jpg",
+      "goals": 20
+    },
+    {
+      "player": "Chris Wood",
+      "team": "Nottingham Forest",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Chris_Wood_2022.jpg",
+      "goals": 20
     }
+    // ... ممكن تضيف بقية الهدافين بنفس الشكل
   ]
 }
