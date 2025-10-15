@@ -1,6 +1,32 @@
 {
+  "league": {
+    "name": "الدوري الإيطالي",
+    "season": "2023/2024",
+    "country": "italy",
+    "logo": "https://.../seriea.png"
+  },
+  "standings": [
+    {
+      "rank": 1,
+      "team": "إنتر ميلان",
+      "logo": "https://.../inter.png",
+      "played": 38,
+      "wins": 29,
+      "draws": 5,
+      "losses": 4,
+      "goals_for": 84,
+      "goals_against": 29,
+      "points": 92,
+      "form": ["W","W","D","W","W"]
+    }
+  ],
+  "scorers": [
+    {"rank":1,"player":"روبينيو","team":"يوفنتوس","goals":24,"photo":"https://.../player1.jpg"}
+  ],
+  "assists": [
+    {"rank":1,"player":"مودريتش","team":"ريال مدريد","assists":12,"photo":"https://.../player2.jpg"}
+  ],
   "matches": [
-    {"home": "ميلان", "away": "يوفنتوس", "date": "2025-10-15", "score": "2 - 1"},
-    {"home": "روما", "away": "إنتر ميلان", "date": "2025-10-16", "score": "1 - 3"}
+    {"date":"2025-10-14T19:00:00Z","home":"إنتر ميلان","away":"ميلان","homeScore":2,"awayScore":1,"status":"FT"}
   ]
 }
