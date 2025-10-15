@@ -1,17 +1,12 @@
 {
-  "league": "Serie A",
-  "season": "2024/2025",
   "standings": [
-    { "rank": 1, "team": "Inter Milan", "points": 94, "played": 38, "won": 29, "drawn": 7, "lost": 2, "goalsFor": 89, "goalsAgainst": 29 },
-    ...
+    {"name": "إنتر ميلان", "logo": "https://i.imgur.com/2bq5nP0.png", "played": 8, "won": 6, "draw": 2, "lost": 0, "points": 20},
+    {"name": "يوفنتوس", "logo": "https://i.imgur.com/3TqvZqv.png", "played": 8, "won": 5, "draw": 2, "lost": 1, "points": 17},
+    {"name": "ميلان", "logo": "https://i.imgur.com/5uUE9xG.png", "played": 8, "won": 5, "draw": 1, "lost": 2, "points": 16}
   ],
   "scorers": [
-    { "rank": 1, "player": "Lautaro Martínez", "team": "Inter Milan", "goals": 24 },
-    ...
-  ],
-  "assists": [
-    { "rank": 1, "player": "Nicolo Barella", "team": "Inter Milan", "assists": 12 },
-    ...
+    {"name": "لاوتارو مارتينيز", "image": "https://i.imgur.com/1JwLfE1.png", "team": "إنتر ميلان", "goals": 10},
+    {"name": "فيدريكو كييزا", "image": "https://i.imgur.com/fwsHcQd.png", "team": "يوفنتوس", "goals": 7},
+    {"name": "جيرو", "image": "https://i.imgur.com/f1QwYY8.png", "team": "ميلان", "goals": 6}
   ]
 }
-
